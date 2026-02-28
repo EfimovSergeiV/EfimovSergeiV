@@ -3,5 +3,5 @@
 Python developer
 
 * Russia, Pskov
-* https://vk.com/s2nullnullachtundfunfzig
-* efimovsergeiv@gmail.com
+* https://efimovsergei.ru/
+* mail@efimovsergei.ru
